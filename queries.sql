@@ -1,0 +1,1 @@
+-- cv06: výpisy (úlohy 7.5 a 7.6). Spúšťať po jednej query; nad každú dopíš -- N records.
