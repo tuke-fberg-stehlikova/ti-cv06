@@ -1,0 +1,2 @@
+-- cv06: štruktúra databázy (úloha 7.4). Poradie: DROP TABLE IF EXISTS v opačnom poradí, potom CREATE TABLE
+-- v poradí lookup tables, main entity, pivot table. Každá table CHARACTER SET utf8mb4.
