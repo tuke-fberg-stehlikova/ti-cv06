@@ -1,0 +1,1 @@
+-- cv06: dáta na začiatok (úloha 7.4). Spustiť po schema.sql. INSERT v rovnakom poradí ako CREATE TABLE.
